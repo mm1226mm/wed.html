@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <title>cocaine</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="index.drug">drug</a></h1>
+ <ol>
+    <li><a href="1.drug">opium</a></li>
+    <li><a href="2.drug">morphine</a></li>
+    <li><a href="3.drug">cocaine</a></li>
+ </ol>
+  <h2>cocaine</h2>
+  <p>코카인은 트로페인(tropane) 고리를 가지고 있는 트로페인 알칼로이드(tropane alkaloids) 계열의 물질이다.</p>
+<img src="cocaine.jpg" width="450">
+</body>
+</html>

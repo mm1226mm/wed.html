@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+  <title>morphine</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="index.drug">drug</a></h1>
+ <ol>
+    <li><a href="1.drug">opium</a></li>
+    <li><a href="2.drug">morphine</a></li>
+    <li><a href="3.drug">cocaine</a></li>
+ </ol>
+  <h2>morphine</h2>
+  <p>모르핀(morphine)은 아편계 진통 의약품으로 동물과 식물에 자연적으로 존재하는 알칼로이드(alkaloid) 물질이다.
+  중추 신경계(CNS)에 직접 작용하여 통증을 줄인다.
+  모르핀은 중독과 남용의 가능성이 높다</p>
+  <img src="morphine.jpg" width="450">
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+  <title>opium</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="index.drug">drug</a></h1>
+ <ol>
+    <li><a href="1.drug">opium</a></li>
+    <li><a href="2.drug">morphine</a></li>
+    <li><a href="3.drug">cocaine</a></li>
+ </ol>
+  <h2>opium</h2>
+<p>양귀비과의 2년생초인 양귀비(Papaver somniferum)의 즙액을 굳힌 것,
+또는 이것을 가공한 것. 마약의 일종이다. 아편은 유럽 각국어인 opium의 한역(漢譯)이며,
+어원은 그리스어 opos(식물즙) 및 opion(양귀비의 즙액)으로 보고 있다</p>
+<img src="opium.jpg" width="450">
+
+</body>
+</html>
